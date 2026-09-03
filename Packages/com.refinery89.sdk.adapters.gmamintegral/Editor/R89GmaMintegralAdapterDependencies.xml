@@ -1,0 +1,17 @@
+<dependencies>
+  <androidPackages>
+    <repositories>
+      <repository>https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea</repository>
+    </repositories>
+    <androidPackage spec="com.refinery89.androidsdk.adapters:gmaMintegral:1.2.5-beta.2">
+      <repositories>
+        <repository>https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea</repository>
+      </repositories>
+    </androidPackage>
+  </androidPackages>
+
+  <iosPods>
+    <iosPod name="R89GmaMintegralAdapter" version="1.2.5-beta.2" minTargetSdk="13.0">
+    </iosPod>
+  </iosPods>
+</dependencies>

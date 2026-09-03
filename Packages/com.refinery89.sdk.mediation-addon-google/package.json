@@ -1,0 +1,37 @@
+{
+  "name": "com.refinery89.sdk.mediation-addon-google",
+  "version": "1.2.5-beta.2",
+  "displayName": "Refinery89 Mediation Addon - Google",
+  "description": "Google addon for the Refinery89 mediation stack. Resolves the native libraries that bridge Refinery89 mediation with the Google Mobile Ads (AdMob) SDK.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Refinery89",
+    "email": "mobile_development@refinery89.com",
+    "url": "https://refinery89.com"
+  },
+  "keywords": [
+    "admob",
+    "google-mobile-ads",
+    "mediation",
+    "refinery89",
+    "ads",
+    "monetization",
+    "edm4u"
+  ],
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.178",
+    "com.google.ads.mobile": "9.1.0"
+  },
+  "openupm": {
+    "dependencies": [
+      "com.google.external-dependency-manager",
+      "com.google.ads.mobile"
+    ]
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/R89SDK/R89MediationAdapterModularUnity.git"
+  }
+}

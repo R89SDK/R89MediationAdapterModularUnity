@@ -1,0 +1,16 @@
+# OpenUPM package metadata for com.refinery89.sdk.adapters.gmapubmatic
+# Submit as a separate PR to https://github.com/openupm/openupm (data/packages/).
+name: com.refinery89.sdk.adapters.gmapubmatic
+displayName: Refinery89 GMA Adapter - PubMatic
+description: "Refinery89 modular mediation adapter for PubMatic. Resolves the native Android and iOS libraries for the PubMatic line item. Requires the Refinery89 mediation base and an R89 addon module."
+repoUrl: 'https://github.com/R89SDK/R89MediationAdapterModularUnity'
+parentRepoUrl: null
+licenseSpdxId: Apache-2.0
+licenseName: Apache License 2.0
+topics:
+  - utilities
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: '1.2.5-beta.2'
+readme: 'main:Packages/com.refinery89.sdk.adapters.gmapubmatic/README.md'
+hunter: R89SDK

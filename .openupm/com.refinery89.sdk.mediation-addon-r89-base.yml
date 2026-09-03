@@ -1,0 +1,16 @@
+# OpenUPM package metadata for com.refinery89.sdk.mediation-addon-r89-base
+# Submit as a separate PR to https://github.com/openupm/openupm (data/packages/).
+name: com.refinery89.sdk.mediation-addon-r89-base
+displayName: Refinery89 Mediation Addon - R89 Base (Modular)
+description: "Modular Refinery89 addon. This is the modular variant of the R89 mediation addon that supports optional adapter modules (Unity, AppLovin, Meta, and more). Pair it with the individual gma* adapter packages you need."
+repoUrl: 'https://github.com/R89SDK/R89MediationAdapterModularUnity'
+parentRepoUrl: null
+licenseSpdxId: Apache-2.0
+licenseName: Apache License 2.0
+topics:
+  - utilities
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: '1.2.5-beta.2'
+readme: 'main:Packages/com.refinery89.sdk.mediation-addon-r89-base/README.md'
+hunter: R89SDK

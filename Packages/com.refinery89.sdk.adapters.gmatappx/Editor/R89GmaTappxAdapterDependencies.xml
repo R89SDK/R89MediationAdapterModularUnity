@@ -1,0 +1,10 @@
+<dependencies>
+  <androidPackages>
+    <androidPackage spec="com.refinery89.androidsdk.adapters:gmaTappx:1.2.5-beta.2" />
+  </androidPackages>
+
+  <iosPods>
+    <iosPod name="R89GmaTappxAdapter" version="1.2.5-beta.2" minTargetSdk="13.0">
+    </iosPod>
+  </iosPods>
+</dependencies>

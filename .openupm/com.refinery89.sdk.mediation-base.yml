@@ -1,0 +1,16 @@
+# OpenUPM package metadata for com.refinery89.sdk.mediation-base
+# Submit as a separate PR to https://github.com/openupm/openupm (data/packages/).
+name: com.refinery89.sdk.mediation-base
+displayName: Refinery89 Mediation Base
+description: "Base module for the Refinery89 Google Mobile Ads mediation stack. Resolves the core native Android and iOS libraries required by all other Refinery89 mediation modules."
+repoUrl: 'https://github.com/R89SDK/R89MediationAdapterModularUnity'
+parentRepoUrl: null
+licenseSpdxId: Apache-2.0
+licenseName: Apache License 2.0
+topics:
+  - utilities
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: '1.2.5-beta.2'
+readme: 'main:Packages/com.refinery89.sdk.mediation-base/README.md'
+hunter: R89SDK

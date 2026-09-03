@@ -1,0 +1,37 @@
+{
+  "name": "com.refinery89.sdk.adapters.gmamoloco",
+  "version": "1.2.5-beta.2",
+  "displayName": "Refinery89 GMA Adapter - Moloco",
+  "description": "Refinery89 modular mediation adapter for Moloco. Resolves the native Android and iOS libraries for the Moloco line item. Requires the Refinery89 mediation base and an R89 addon module.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Refinery89",
+    "email": "mobile_development@refinery89.com",
+    "url": "https://refinery89.com"
+  },
+  "keywords": [
+    "admob",
+    "google-mobile-ads",
+    "mediation",
+    "refinery89",
+    "ads",
+    "monetization",
+    "edm4u"
+  ],
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.178",
+    "com.google.ads.mobile": "9.1.0"
+  },
+  "openupm": {
+    "dependencies": [
+      "com.google.external-dependency-manager",
+      "com.google.ads.mobile"
+    ]
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/R89SDK/R89MediationAdapterModularUnity.git"
+  }
+}

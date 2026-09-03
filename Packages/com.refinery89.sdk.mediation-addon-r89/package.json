@@ -1,0 +1,37 @@
+{
+  "name": "com.refinery89.sdk.mediation-addon-r89",
+  "version": "1.2.5-beta.2",
+  "displayName": "Refinery89 Mediation Addon - R89 (All-in-one)",
+  "description": "Non-modular Refinery89 addon. This variant bundles every supported mediation adapter in a single module. Use it when you want all adapters without selecting them individually.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Refinery89",
+    "email": "mobile_development@refinery89.com",
+    "url": "https://refinery89.com"
+  },
+  "keywords": [
+    "admob",
+    "google-mobile-ads",
+    "mediation",
+    "refinery89",
+    "ads",
+    "monetization",
+    "edm4u"
+  ],
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.178",
+    "com.google.ads.mobile": "9.1.0"
+  },
+  "openupm": {
+    "dependencies": [
+      "com.google.external-dependency-manager",
+      "com.google.ads.mobile"
+    ]
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/R89SDK/R89MediationAdapterModularUnity.git"
+  }
+}

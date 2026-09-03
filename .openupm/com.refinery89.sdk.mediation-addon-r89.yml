@@ -1,0 +1,16 @@
+# OpenUPM package metadata for com.refinery89.sdk.mediation-addon-r89
+# Submit as a separate PR to https://github.com/openupm/openupm (data/packages/).
+name: com.refinery89.sdk.mediation-addon-r89
+displayName: Refinery89 Mediation Addon - R89 (All-in-one)
+description: "Non-modular Refinery89 addon. This variant bundles every supported mediation adapter in a single module. Use it when you want all adapters without selecting them individually."
+repoUrl: 'https://github.com/R89SDK/R89MediationAdapterModularUnity'
+parentRepoUrl: null
+licenseSpdxId: Apache-2.0
+licenseName: Apache License 2.0
+topics:
+  - utilities
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: '1.2.5-beta.2'
+readme: 'main:Packages/com.refinery89.sdk.mediation-addon-r89/README.md'
+hunter: R89SDK
